@@ -1,4 +1,4 @@
-//© 2021 Sean Murdock
+//© 2021 cameron Murdock
 
 package com.getsimplex.steptimer.service;
 
@@ -8,7 +8,7 @@ import akka.actor.Props;
 import akka.routing.RoundRobinPool;
 
 /**
- * Created by sean on 8/16/2016.
+ * Created by cameron on 8/16/2016.
  */
 public class MessageIntake {
 

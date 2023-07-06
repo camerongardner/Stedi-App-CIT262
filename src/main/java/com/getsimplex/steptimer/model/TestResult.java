@@ -1,11 +1,11 @@
-//© 2021 Sean Murdock
+//© 2021 cameron Murdock
 
 package com.getsimplex.steptimer.model;
 
 import java.util.Date;
 
 /**
- * Created by sean on 10/7/2016.
+ * Created by cameron on 10/7/2016.
  */
 public class TestResult {
 
